@@ -1,0 +1,61 @@
+product_id,product_name,category,price,stock_quantity
+1,Noise-Canceling Headphones,Electronics,62.52,195
+2,Smartphone Stand,Electronics,60.85,344
+3,Wireless Charger,Electronics,215.06,278
+4,Bluetooth Speaker,Electronics,128.52,483
+5,USB-C Hub,Electronics,228.18,46
+6,4K Streaming Stick,Electronics,34.42,236
+7,Smart Home Hub,Electronics,209.46,42
+8,Portable SSD Drive,Electronics,13.34,414
+9,Mechanical Keyboard,Electronics,43.57,154
+10,Wi-Fi 6 Router,Electronics,50.87,246
+11,Ceramic Coffee Mug Set,Home & Kitchen,143.52,238
+12,Bamboo Cutting Board,Home & Kitchen,145.71,77
+13,Aroma Diffuser,Home & Kitchen,30.37,472
+14,Stainless Steel Kettle,Home & Kitchen,176.61,96
+15,Memory Foam Pillow,Home & Kitchen,142.07,447
+16,Cast Iron Skillet,Home & Kitchen,100.19,302
+17,Glass Meal Prep Containers,Home & Kitchen,47.67,85
+18,Electric Hand Mixer,Home & Kitchen,22.43,206
+19,Herb Garden Kit,Home & Kitchen,226.0,427
+20,Air Purifier Filter,Home & Kitchen,243.39,40
+21,Non-Slip Yoga Mat,Fitness,225.99,127
+22,Adjustable Dumbbells,Fitness,174.48,361
+23,Resistance Band Kit,Fitness,36.91,419
+24,Foam Roller,Fitness,145.47,467
+25,Fitness Tracker Strap,Fitness,109.01,337
+26,Jump Rope Set,Fitness,190.49,493
+27,Kettlebell Pair,Fitness,233.34,462
+28,Balance Trainer,Fitness,51.09,429
+29,Exercise Dice Game,Fitness,205.05,471
+30,Hydration Backpack,Fitness,110.42,111
+31,Vitamin C Serum,Beauty,187.43,190
+32,Moisturizing Face Cream,Beauty,198.31,230
+33,Organic Shampoo,Beauty,203.02,462
+34,Aloe Vera Gel,Beauty,187.07,147
+35,Lip Care Kit,Beauty,75.86,423
+36,Detox Clay Mask,Beauty,179.05,215
+37,Overnight Repair Oil,Beauty,219.63,459
+38,Charcoal Tooth Powder,Beauty,124.28,122
+39,Reusable Makeup Pads,Beauty,206.43,255
+40,Spa Headband Trio,Beauty,95.54,440
+41,Insulated Water Bottle,Outdoors,201.39,136
+42,Camping Lantern,Outdoors,65.44,357
+43,Portable Hammock,Outdoors,58.37,188
+44,Compact Binoculars,Outdoors,78.67,55
+45,Trail Backpack,Outdoors,242.13,162
+46,Solar Power Bank,Outdoors,95.89,280
+47,Multi-tool Knife,Outdoors,107.42,451
+48,Trail Running Poles,Outdoors,139.85,500
+49,Foldable Camp Table,Outdoors,19.05,469
+50,Waterproof Dry Bag,Outdoors,242.96,111
+51,Leadership Workbook,Books,150.38,155
+52,Healthy Recipes Guide,Books,21.59,325
+53,Mindfulness Journal,Books,115.7,393
+54,Photography Basics,Books,199.27,243
+55,Travel Bucket List,Books,156.47,281
+56,Creative Writing Prompts,Books,39.96,480
+57,30-Day Budget Planner,Books,149.43,150
+58,Startup Playbook,Books,23.04,243
+59,Minimalist Living Guide,Books,12.9,493
+60,DIY Home Repair Manual,Books,204.04,371

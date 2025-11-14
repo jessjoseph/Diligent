@@ -1,0 +1,86 @@
+customer_id,first_name,last_name,email,signup_date,country
+1,Noah,Smith,noah.smith1@example.com,2024-05-31,Germany
+2,Mateo,Lee,mateo.lee2@example.com,2023-06-12,Netherlands
+3,Emma,Lewis,emma.lewis3@example.com,2025-03-28,United States
+4,Olivia,Brown,olivia.brown4@example.com,2024-02-05,Germany
+5,Luna,Young,luna.young5@example.com,2023-01-08,Netherlands
+6,Sophia,Clark,sophia.clark6@example.com,2025-03-23,Germany
+7,Harper,Lewis,harper.lewis7@example.com,2024-06-06,United States
+8,Elijah,Thompson,elijah.thompson8@example.com,2024-10-11,France
+9,Ava,Garcia,ava.garcia9@example.com,2024-10-04,Canada
+10,Emma,Jackson,emma.jackson10@example.com,2023-06-01,Australia
+11,Ethan,Young,ethan.young11@example.com,2024-05-09,United States
+12,Harper,Clark,harper.clark12@example.com,2023-07-28,Spain
+13,Emma,Clark,emma.clark13@example.com,2024-07-07,Brazil
+14,Ethan,Lewis,ethan.lewis14@example.com,2023-12-13,Canada
+15,Liam,Wilson,liam.wilson15@example.com,2024-06-29,Canada
+16,Mateo,Taylor,mateo.taylor16@example.com,2025-01-01,France
+17,Harper,Martin,harper.martin17@example.com,2023-10-14,Australia
+18,Ethan,Garcia,ethan.garcia18@example.com,2024-05-14,Canada
+19,Sebastian,Martinez,sebastian.martinez19@example.com,2025-11-12,Germany
+20,Elijah,White,elijah.white20@example.com,2024-12-31,France
+21,Aiden,Wilson,aiden.wilson21@example.com,2024-09-09,United States
+22,Mateo,Johnson,mateo.johnson22@example.com,2024-08-22,Spain
+23,Isabella,Brown,isabella.brown23@example.com,2024-01-21,Brazil
+24,Mia,Garcia,mia.garcia24@example.com,2025-09-02,Spain
+25,Harper,Lee,harper.lee25@example.com,2024-05-10,United Kingdom
+26,Mateo,Clark,mateo.clark26@example.com,2024-05-06,Brazil
+27,Logan,Lewis,logan.lewis27@example.com,2025-02-09,Australia
+28,Mateo,Lee,mateo.lee28@example.com,2025-09-23,Italy
+29,Emma,Johnson,emma.johnson29@example.com,2023-06-27,United Kingdom
+30,Elijah,Thompson,elijah.thompson30@example.com,2023-03-25,Spain
+31,Amelia,Young,amelia.young31@example.com,2025-06-30,Netherlands
+32,Isabella,Clark,isabella.clark32@example.com,2022-12-08,Canada
+33,Aiden,Anderson,aiden.anderson33@example.com,2024-10-11,Canada
+34,Lucas,Thompson,lucas.thompson34@example.com,2023-10-04,Italy
+35,Olivia,Anderson,olivia.anderson35@example.com,2025-09-05,United Kingdom
+36,Luna,Taylor,luna.taylor36@example.com,2024-07-18,Netherlands
+37,Sebastian,Garcia,sebastian.garcia37@example.com,2023-09-24,Australia
+38,Elijah,Clark,elijah.clark38@example.com,2025-11-05,United States
+39,Sebastian,Moore,sebastian.moore39@example.com,2025-08-11,United States
+40,Noah,Martin,noah.martin40@example.com,2024-08-05,Germany
+41,Liam,Wilson,liam.wilson41@example.com,2023-04-25,Canada
+42,James,Brown,james.brown42@example.com,2025-11-09,United Kingdom
+43,Ava,Harris,ava.harris43@example.com,2023-10-19,France
+44,Luna,Young,luna.young44@example.com,2025-03-30,Germany
+45,Aiden,Garcia,aiden.garcia45@example.com,2024-08-14,Spain
+46,Ethan,White,ethan.white46@example.com,2025-10-09,Italy
+47,Noah,Wilson,noah.wilson47@example.com,2024-02-18,Canada
+48,Mia,Smith,mia.smith48@example.com,2024-02-29,Brazil
+49,Mateo,Smith,mateo.smith49@example.com,2023-04-09,United States
+50,Mateo,Brown,mateo.brown50@example.com,2023-01-18,Australia
+51,Emma,Sanchez,emma.sanchez51@example.com,2024-03-16,France
+52,James,Garcia,james.garcia52@example.com,2023-08-12,Brazil
+53,Evelyn,Harris,evelyn.harris53@example.com,2024-03-26,Italy
+54,Logan,Garcia,logan.garcia54@example.com,2023-05-27,Canada
+55,Logan,Martin,logan.martin55@example.com,2025-03-31,Spain
+56,Harper,Johnson,harper.johnson56@example.com,2023-06-04,United States
+57,Amelia,Moore,amelia.moore57@example.com,2023-06-26,Germany
+58,Sophia,Garcia,sophia.garcia58@example.com,2025-05-21,United Kingdom
+59,Logan,Martinez,logan.martinez59@example.com,2024-06-07,Italy
+60,Mateo,Brown,mateo.brown60@example.com,2025-05-10,Netherlands
+61,Noah,Johnson,noah.johnson61@example.com,2022-12-15,Canada
+62,Mateo,Martinez,mateo.martinez62@example.com,2025-02-24,Italy
+63,James,Garcia,james.garcia63@example.com,2025-02-13,United States
+64,Elijah,Jackson,elijah.jackson64@example.com,2022-11-19,Spain
+65,Isabella,White,isabella.white65@example.com,2024-06-21,Spain
+66,Aiden,Harris,aiden.harris66@example.com,2023-09-28,Germany
+67,Lucas,Garcia,lucas.garcia67@example.com,2023-03-14,Brazil
+68,Aiden,Johnson,aiden.johnson68@example.com,2024-08-18,United States
+69,Liam,Lewis,liam.lewis69@example.com,2025-07-18,Netherlands
+70,Luna,Martinez,luna.martinez70@example.com,2023-03-11,Netherlands
+71,Emma,Martinez,emma.martinez71@example.com,2023-04-04,Brazil
+72,Emma,Wilson,emma.wilson72@example.com,2025-02-18,Canada
+73,Evelyn,Wilson,evelyn.wilson73@example.com,2023-02-04,Brazil
+74,Emma,Thompson,emma.thompson74@example.com,2025-10-20,Australia
+75,Isabella,Garcia,isabella.garcia75@example.com,2024-08-19,Germany
+76,Isabella,Jackson,isabella.jackson76@example.com,2023-08-10,France
+77,Harper,Moore,harper.moore77@example.com,2023-04-12,United States
+78,Harper,Young,harper.young78@example.com,2023-06-07,Canada
+79,Aiden,Garcia,aiden.garcia79@example.com,2025-09-16,France
+80,Ava,Martin,ava.martin80@example.com,2023-04-04,Germany
+81,Ethan,Thomas,ethan.thomas81@example.com,2023-10-04,Italy
+82,Aiden,Thomas,aiden.thomas82@example.com,2025-11-02,United States
+83,Aiden,Thomas,aiden.thomas83@example.com,2023-06-15,United Kingdom
+84,Isabella,Taylor,isabella.taylor84@example.com,2023-06-22,Netherlands
+85,Ava,Anderson,ava.anderson85@example.com,2024-06-14,Brazil
